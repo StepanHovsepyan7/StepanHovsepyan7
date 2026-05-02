@@ -108,15 +108,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:4ECDC4,100:6C63FF&height=3" width="100%" alt="divider" />
 
-## 📊 &nbsp; GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StepanHovsepyan7&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StepanHovsepyan7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ECDC4,50:FFD66B,100:FF6B6B&height=3" width="100%" alt="divider" />
 
