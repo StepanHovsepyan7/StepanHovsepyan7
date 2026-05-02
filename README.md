@@ -106,9 +106,6 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:4ECDC4,100:6C63FF&height=3" width="100%" alt="divider" />
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ECDC4,50:FFD66B,100:FF6B6B&height=3" width="100%" alt="divider" />
 
 ## ✉️ &nbsp; Let's connect
