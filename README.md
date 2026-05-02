@@ -1,4 +1,10 @@
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:4ECDC4,70:FF6B6B,100:FFD66B&height=220&section=header&text=Stepan%20Hovsepyan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=frontend%20developer%20%C2%B7%20Yerevan%2C%20AM&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="banner" /></a>
+<a href="#">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D9FF&height=230&section=header&text=Stepan%20Hovsepyan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=frontend%20developer%20%C2%B7%20Yerevan%2C%20AM&descSize=18&descAlign=50&descAlignY=62&animation=blink" 
+    width="100%" 
+    alt="banner" 
+  />
+</a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
