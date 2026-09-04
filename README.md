@@ -1,8 +1,8 @@
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:4ECDC4,70:FF6B6B,100:FFD66B&height=220&section=header&text=Stepan%20Hovsepyan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=frontend%20developer%20%C2%B7%20Yerevan%2C%20AM&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="banner" /></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:4ECDC4,70:FF6B6B,100:FFD66B&height=220&section=header&text=Stepan%20Hovsepyan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=full%20stack%20developer%20%C2%B7%20Yerevan%2C%20AM&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="banner" /></a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3800&pause=1500&color=6C63FF&center=true&vCenter=true&width=900&lines=Frontend+developer+who+loves+building.;React+%2B+Next.js+enthusiast.;Always+learning%2C+always+creating.;Build.+Learn.+Improve.+Repeat." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3800&pause=1500&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+who+loves+building.;React+%2B+Next.js+%2B+Laravel+enthusiast.;Building+modern+web+applications.;Always+learning%2C+always+creating.;Build.+Learn.+Improve.+Repeat." alt="typing intro" />
   </a>
 </p>
 
@@ -10,25 +10,35 @@
 
 <br />
 
-> &nbsp;<kbd>~/dev $</kbd> &nbsp; <code>cat styop.json</code>
+>  <kbd>~/dev $</kbd>   <code>cat styop.json</code>
 
 ```json
 {
     "name": "Stepan Hovsepyan",
     "alias": "Styop",
     "based_in": "Yerevan, Armenia",
-    "about": "A developer who enjoys building modern web applications with React and Next.js, exploring UI/UX, APIs, and creative frontend experiences. Always building, learning, and experimenting with new ideas.",
+    "role": "Full Stack Developer",
+    "about": "A Full Stack Developer who enjoys building modern web applications with React, Next.js, PHP, and Laravel. I love creating responsive interfaces, working with APIs, databases, authentication systems, and exploring creative web experiences. Always building, learning, and experimenting with new ideas.",
     "stack": [
+        "HTML",
+        "CSS",
+        "Sass",
         "JavaScript",
         "React",
-        "NextJs",
-        "Tailwindcss",
+        "Next.js",
+        "Tailwind CSS",
         "Bootstrap",
-        "Sass"
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "Git",
+        "GitHub"
     ],
     "currently_learning": [
         "Advanced React patterns",
         "Next.js ecosystem",
+        "Laravel",
+        "Backend development",
         "AI integrations"
     ],
     "fueled_by": "☕ + curiosity",
@@ -41,16 +51,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:4ECDC4,100:FF6B6B&height=3" width="100%" alt="divider" />
 
-## 🛠️ &nbsp; Tech I work with
+## 🛠️   Tech I work with
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,git,github,vscode&perline=11&theme=dark" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,php,laravel,mysql,git,github,vscode&perline=14&theme=dark" alt="tech stack" />
   </a>
 </p>
 
 <details>
-<summary>&nbsp;<strong>📋 &nbsp; Frontend stack & tools</strong>&nbsp;</summary>
+<summary>&nbsp;<strong>📋 &nbsp; Full Stack stack & tools</strong>&nbsp;</summary>
 
 <br />
 
@@ -59,6 +69,7 @@
     <td valign="top" width="22%"><b>Languages</b></td>
     <td width="78%">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </td>
   </tr>
 
@@ -77,9 +88,20 @@
   <tr>
     <td valign="top"><b>Frameworks & Libraries</b></td>
     <td>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
     </td>
   </tr>
 
@@ -108,7 +130,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ECDC4,50:FFD66B,100:FF6B6B&height=3" width="100%" alt="divider" />
 
-## ✉️ &nbsp; Let's connect
+## 🚀   What I build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-REST%20APIs-6C63FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Modern web applications • REST APIs • Authentication • Database-driven apps • Responsive UI
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:6C63FF,100:4ECDC4&height=3" width="100%" alt="divider" />
+
+## ✉️   Let's connect
 
 <p align="center">
   <a href="mailto:stpnhovsepyan@gmail.com">
